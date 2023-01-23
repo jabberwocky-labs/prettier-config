@@ -1,0 +1,39 @@
+{
+    "name": "@jabberwocky-db/prettier-config",
+    "version": "0.0.1",
+    "license": "MIT",
+    "sideEffects": false,
+    "main": "index.json",
+    "prettier": "./index.json",
+    "files": [],
+    "scripts": {
+        "format": "yarn prettier . --write"
+    },
+    "dependencies": {
+        "prettier": "^2.8.3"
+    },
+    "packageManager": "yarn@3.3.1",
+    "repository": "github:@jabberwocky-db/prettier-config",
+    "homepage": "https://github.com/jabberwocky-db/prettier-config#readme",
+    "keywords": [
+        "prettier",
+        "prettier-config",
+        "jabberwocky",
+        "jabberwocky-db",
+        "format"
+    ],
+    "author": {
+        "name": "Zachary Raineri",
+        "email": "zach@jabberwockylabs.com"
+    },
+    "contributors": [
+        {
+            "name": "Zachary Raineri",
+            "email": "zach@jabberwockylabs.com"
+        }
+    ],
+    "bugs": {
+        "url": "https://github.com/jabberwocky-db/prettier-config/issues",
+        "email": "zach@jabberwockylabs.com"
+    }
+}
