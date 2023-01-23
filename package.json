@@ -9,6 +9,9 @@
     "scripts": {
         "format": "yarn prettier . --write"
     },
+    "peerDependencies": {
+        "prettier": "^2.8.0"
+    },
     "packageManager": "yarn@3.3.1",
     "repository": "github:@jabberwocky-labs/prettier-config",
     "homepage": "https://github.com/jabberwocky-labs/prettier-config#readme",
