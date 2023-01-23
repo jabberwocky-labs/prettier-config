@@ -11,7 +11,7 @@
     },
     "packageManager": "yarn@3.3.1",
     "repository": "github:@jabberwocky-labs/prettier-config",
-    "homepage": "https://github.com/jabberwocky-db/prettier-config#readme",
+    "homepage": "https://github.com/jabberwocky-labs/prettier-config#readme",
     "keywords": [
         "prettier",
         "prettier-config",
@@ -30,7 +30,7 @@
         }
     ],
     "bugs": {
-        "url": "https://github.com/jabberwocky-db/prettier-config/issues",
+        "url": "https://github.com/jabberwocky-labs/prettier-config/issues",
         "email": "zach@jabberwockylabs.com"
     }
 }
