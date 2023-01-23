@@ -1,5 +1,5 @@
 {
-    "name": "@jabberwocky-db/prettier-config",
+    "name": "@jabberwocky-labs/prettier-config",
     "version": "0.0.1",
     "license": "MIT",
     "sideEffects": false,
@@ -10,7 +10,7 @@
         "format": "yarn prettier . --write"
     },
     "packageManager": "yarn@3.3.1",
-    "repository": "github:@jabberwocky-db/prettier-config",
+    "repository": "github:@jabberwocky-labs/prettier-config",
     "homepage": "https://github.com/jabberwocky-db/prettier-config#readme",
     "keywords": [
         "prettier",
